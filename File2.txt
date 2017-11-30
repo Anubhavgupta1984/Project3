@@ -1,0 +1,7 @@
+File2 created
+<<<<<<< HEAD
+merge conflict
+=======
+Testing merge conflict
+>>>>>>> 534d62e7ff7d964c95aa7ef9cace4b6bf05baee8
+
